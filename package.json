@@ -1,0 +1,32 @@
+{
+  "name": "win-timeit",
+  "version": "0.1.0",
+  "description": "Simple wrapper around timeit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --fix && ava --verbose"
+  },
+  "keywords": [
+    "win",
+    "windows",
+    "time",
+    "timing",
+    "timeit",
+    "perf",
+    "profiling"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "standard": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/win-timeit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/win-timeit/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/win-timeit"
+}
